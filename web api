@@ -1,0 +1,21 @@
+Modals > BusDetails.cs
+
+install ef nuget
+
+Data > ApplicationDbContext.cs
+
+AppSettings > Connection string 
+
+Program.cs > add service ApplicationDbContext
+
+migration
+
+check in ssms
+
+Respositories > interface, impl
+
+Controllers >
+
+swagger ui test
+
+
