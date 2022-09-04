@@ -25,3 +25,4 @@ swagger ui test
 
 dotnet ef migrations add secondMigrat
 dotnet ef migrations remove
+dotnet ef database update
