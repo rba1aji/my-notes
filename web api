@@ -19,3 +19,9 @@ Controllers >
 swagger ui test
 
 
+
+
+--commmands--
+
+dotnet ef migrations add secondMigrat
+dotnet ef migrations remove
