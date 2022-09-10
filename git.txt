@@ -1,0 +1,6 @@
+git init
+git add .
+git pull
+git remote add origin https://github.com/rba1aji/bus-details-system-web-api
+git commit -m 'message'
+git push -u origin master
