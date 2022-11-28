@@ -11,3 +11,5 @@ git log
 git status
 
 git fetch
+
+git rm -r --cached build
