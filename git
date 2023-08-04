@@ -13,3 +13,5 @@ git status
 git fetch
 
 git rm -r --cached build
+
+git checkout 7292d82b3 .
