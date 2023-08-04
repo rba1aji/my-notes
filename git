@@ -15,3 +15,8 @@ git fetch
 git rm -r --cached build
 
 git checkout 7292d82b3 .
+
+
+ssh-keygen 
+<copy key in .ssh/id_rsa.pub>
+ssh -T git@github.com
